@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">MovieApp</string>
+    <string name="title_activity_movie_list">MovieListActivity</string>
+    <string name="title_home">Top 250</string>
+    <string name="title_dashboard">MostPopular</string>
+    <string name="title_notifications">Settings</string>
+</resources>
